@@ -27,7 +27,7 @@ str(loans)
 ## 1. Data basics
 How many loan cases are in the data? How many variables?
 
-*answer:* answer here
+*answer:* 700 cases, 21 variables.
 
 ```{r}
 # R chunk for questions above (if needed)
